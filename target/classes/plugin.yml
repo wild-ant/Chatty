@@ -1,0 +1,59 @@
+name: Chatty
+version: 1.1.2
+main: ru.wildant.chatty.Chatty
+api-version: 1.19 
+
+commands:
+  tell:
+    description: Шепнуть другому игроку.
+    usage: /<command> <игрок> <сообщение>
+    permission: null
+    aliases: t
+  adsell:
+    description: Дать объявление о продаже.
+    usage: /<command> <сообщение>
+    permission: null
+  adbuy:
+    description: Дать объявление о купле.
+    usage: /<command> <сообщение>
+    permission: null
+  event:
+    description: Дать объявление о начале события.
+    usage: /<command> <сообщение>
+    permission: null
+  alert:
+    description: Дать предупредить игроков.
+    usage: /<command> <сообщение>
+    permission: null
+  settings:
+    description: Настройка Chatty.
+    usage: /<command>
+    permission: null
+  toggle-join-leave-messages:
+    description: Переключить сообщения о входе/выходе.
+    usage: /<command>
+    permission: null
+  toggle-death-messages:
+    description: Переключить сообщения о смерти.
+    usage: /<command>
+    permission: null
+  toggle-mention-sound:
+    description: Переключить звуковое оповещение при упоминании в чате.
+    usage: /<command>
+    permission: null
+  toggle-whisper-sound:
+    description: Переключить звуковое оповещение о личных сообщениях.
+    usage: /<command>
+    permission: null
+  toggle-global-chat-messages:
+    description: Переключить видимость глобального чата.
+    usage: /<command>
+    permission: null
+  toggle-local-chat-messages:
+    description: Переключить видимость локального чата.
+    usage: /<command>
+    permission: null
+  toggle-whisper-messages:
+    description: Переключить видимость личных сообщений.
+    usage: /<command>
+    permission: null

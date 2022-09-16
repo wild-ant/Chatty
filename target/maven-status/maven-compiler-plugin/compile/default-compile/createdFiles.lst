@@ -1,0 +1,16 @@
+ru\wildant\chatty\CommandWhisper.class
+ru\wildant\chatty\ToggleLocalChatMessagesCommand.class
+ru\wildant\chatty\CommandSettings.class
+ru\wildant\chatty\CommandAdbuy.class
+ru\wildant\chatty\CommandAlert.class
+ru\wildant\chatty\ToggleJoinLeaveMessageCommand.class
+ru\wildant\chatty\CommandAdsell.class
+ru\wildant\chatty\ToggleWhisperSound.class
+ru\wildant\chatty\Chatty.class
+ru\wildant\chatty\EventListener.class
+ru\wildant\chatty\Extension.class
+ru\wildant\chatty\CommandEvent.class
+ru\wildant\chatty\ToggleWhisperMessagesCommand.class
+ru\wildant\chatty\ToggleDeathMessagesCommand.class
+ru\wildant\chatty\ToggleGlobalChatMessagesCommand.class
+ru\wildant\chatty\ToggleMentionSoundCommand.class
